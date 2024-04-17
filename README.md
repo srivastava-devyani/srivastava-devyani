@@ -4,16 +4,30 @@
 - 📫 How to reach me : devyani93.srivastava@gmail.com
 - 😄 Pronouns: she/her
 
-##  🔌 Technical Skills:
+##  🔌 Stack:
+- APIs
 - SQL
 - Google Analytics
 - Google Tag Manager
 - Google Big Query
 - Google Looker Studio
 - Basics of HTML, CSS
+- Google Optimize
 
-## 👜 Professional Skills:
+## 👜 Skills 
+- Data Collection & Measurement
+- Data Analysis
+- Data Visualization
+- Data-Driven Decision-Making
+- Organic & Paid Marketing
+- Web Development
+- Usability & Sales Psychology
+- User Privacy, GDPR, ePrivacy
+- Agile & Scrum
+
+## ☁ Professional Skills:
 - Problem Solver
 - Analytical Mindset
 - Effective Communication
+- Creative
 
