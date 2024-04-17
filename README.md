@@ -1,9 +1,21 @@
-- 👋 Hi, I’m @srivastava-devyani
+# 👋 Hi, I’m @srivastava-devyani
 - ⚡ I’m a full stack marketer and sales specialist with 7 years of experience in key account management, team management, campaign planning, brand and digital marketing with analytics. 
 - 🌱 I’m currently learning Marketing Analytics and technologies 
 - 📫 How to reach me : devyani93.srivastava@gmail.com
 - 😄 Pronouns: she/her
-<!---
-srivastava-devyani/srivastava-devyani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+I'm a Marketing Analyst & Connective Communicator.
+
+##  🔌 Technical Skills:
+SQL
+Google Analytics
+Google Tag Manager
+Google Big Query
+Google Looker Studio
+Basics of HTML, CSS
+
+## 👜 Professional Skills:
+Problem Solver
+Analytical Thinking
+Effective Communication
+
